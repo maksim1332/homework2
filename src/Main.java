@@ -38,12 +38,20 @@ public class Main {
 //            System.out.println(friend);
         }
         {//task 5
-            var frog = 3.5;
-            System.out.println(frog);
-            frog = frog * 10;
-            System.out.println(frog);
-            frog = frog / 3.5;
-            System.out.println(frog);
+//            var frog = 3.5;
+//            System.out.println(frog);
+//            frog = frog * 10;
+//            System.out.println(frog);
+//            frog = frog / 3.5;
+//            System.out.println(frog);
+        }
+        {//task 6
+            var boxerOne = 78.2;
+            var boxerTwo = 82.7;
+            var totalWeight = boxerOne + boxerTwo;
+            System.out.println(totalWeight);
+            var difference = boxerTwo-boxerOne;
+            System.out.println(difference);
         }
     }
 }
