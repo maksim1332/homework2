@@ -19,15 +19,24 @@ public class Main {
 //            System.out.println("paper-"+paper);
         }
         {//task 3
-            var dog = 8.0;
-            var cat = 3.6;
-            var paper = 763789;
-            dog = dog - 3.5;
-            cat = cat - 1.6;
-            paper = paper - 7639;
-            System.out.println("dog-" + dog);
-            System.out.println("cat-" + cat);
-            System.out.println("paper-" + paper);
+//            var  dog = 8.0 ;
+//            var  cat = 3.6 ;
+//            var paper = 763789 ;
+//            dog = dog - 3,5 ;
+//            cat = cat - 1,6 ;
+//            бумага = бумага - 7639 ;
+//            System.out.println("dog-"+dog);
+//            System.out.println("cat-"+cat);
+//            System.out.println("paper-"+paper);
+        }
+        {//task 4
+            var friend = 19;
+            System.out.println(friend);
+            friend = friend + 2;
+            System.out.println(friend);
+            friend = friend / 7;
+            System.out.println(friend);
+
         }
     }
 }
