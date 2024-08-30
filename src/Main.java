@@ -54,10 +54,19 @@ public class Main {
 //            System.out.println(difference);
         }
         {//task 7
-            var boxerOne = 78.2;
-            var boxerTwo = 82.7;
-            var remains = boxerTwo - boxerOne ;
-            System.out.println(remains);
+//            var boxerOne = 78.2;
+//            var boxerTwo = 82.7;
+//            var remains = boxerTwo - boxerOne ;
+//            System.out.println(remains);
+        }
+        {//task 8
+            var timeWorked = 640;
+            var change = 8;
+            var staff = timeWorked / change;
+            System.out.println("Всего работников в компании " + staff + " человек");
+            var totalEmployees = staff + 94;
+            var openingHours = totalEmployees * 8;
+            System.out.println("Если в компании работает "+totalEmployees+" человек, то всего "+openingHours+" часов работы может быть поделено между сотрудниками.");
         }
     }
 }
