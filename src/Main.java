@@ -46,12 +46,14 @@ public class Main {
 //            System.out.println(frog);
         }
         {//task 6
-            var boxerOne = 78.2;
-            var boxerTwo = 82.7;
-            var totalWeight = boxerOne + boxerTwo;
-            System.out.println(totalWeight);
-            var difference = boxerTwo-boxerOne;
-            System.out.println(difference);
+//            var boxerOne = 78.2;
+//            var boxerTwo = 82.7;
+//            var totalWeight = boxerOne + boxerTwo;
+//            System.out.println(totalWeight);
+//            var difference = boxerTwo-boxerOne;
+//            System.out.println(difference);
+        }
+        {//task 7
         }
     }
 }
