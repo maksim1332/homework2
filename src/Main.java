@@ -54,6 +54,10 @@ public class Main {
 //            System.out.println(difference);
         }
         {//task 7
+            var boxerOne = 78.2;
+            var boxerTwo = 82.7;
+            var remains = boxerTwo - boxerOne ;
+            System.out.println(remains);
         }
     }
 }
